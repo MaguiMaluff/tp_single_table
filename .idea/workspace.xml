@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99dd1372-1622-4ca4-bbdd-bfe2754da77a" name="Changes" comment="" />
+    <list default="true" id="99dd1372-1622-4ca4-bbdd-bfe2754da77a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/link.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/singleTableSprint" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
@@ -46,6 +48,7 @@
   "keyToString": {
     "Gradle.TP_Single_Table [:com.example.sigleTable.SigleTableApplication.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
